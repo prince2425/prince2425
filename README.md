@@ -24,10 +24,7 @@ A Passionate Full Stack Developer || MERN Stack Web Developer from India
 
 ### ✍️ Random Dev Quote
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prince2425&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=prince2425&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

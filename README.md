@@ -1,13 +1,13 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,24,30&text=Prince%20Singh&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Open%20to%20Work&descSize=24&descAlignY=58&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,24,30&text=Prince%20Singh&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Open%20to%20Work&descSize=24&descAlignY=58&animation=fadeIn"/>
 </p>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;DSA+Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" /> </p> <p align="center"> <a href="mailto:shiprincesingh@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/prince-singh-7008062a6/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://x.com/Prince_singh731"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="https://instagram.com/prince_singh_731_"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
-🚀 About Me
-💻 Passionate Full Stack Developer specializing in the MERN stack
-🌐 Open to collaborating on interesting Full Stack Development projects
-📚 Strong foundation in Data Structures and Algorithms
-⚡ Always exploring new tools and technologies to sharpen my craft
-📫 Reach me at shiprincesingh@gmail.com
+🚀 About Me <br>
+💻 Passionate Full Stack Developer specializing in the MERN stack<br>
+🌐 Open to collaborating on interesting Full Stack Development projects<br>
+📚 Strong foundation in Data Structures and Algorithms<br>
+⚡ Always exploring new tools and technologies to sharpen my craft<br>
+📫 Reach me at shiprincesingh@gmail.com<br>
 🛠️ Tech Stack
 
 Languages
@@ -20,13 +20,26 @@ Frontend
 
 Backend & Database
 
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" /> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" /> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 Tools
 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 📊 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" /> </p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prince2425&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince2425&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prince2425&theme=tokyonight"/>
+</p>
 
 Replace YOUR_GITHUB_USERNAME above with your actual GitHub username to activate these stat cards.
 

@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Prince Singh 👋
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Prince%20Singh&fontColor=ffffff&fontSize=65&desc=MERN%20Stack%20Developer%20%7C%20Open%20to%20Work&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4ba5,100:17153B&height=260&section=header&text=Prince%20Singh&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React.js%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js&descAlignY=64&descSize=24"/>
+
 
 </h1> <h3 align="center">Full Stack Developer | MERN Stack Specialist</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;DSA+Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" /> </p> <p align="center"> <a href="mailto:shiprincesingh@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/prince-singh-7008062a6/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://x.com/Prince_singh731"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="https://instagram.com/prince_singh_731_"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
 🚀 About Me
